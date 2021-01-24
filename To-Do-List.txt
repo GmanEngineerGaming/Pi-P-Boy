@@ -1,0 +1,19 @@
+- Test out Pi-P-Boy
+- Do shopping
+Shopping list
+* Lunch Meat
+* Toilet Paper / Paper Towels
+* Bbq / Honey Mustard
+* Doggo Food
+* Dry Erase Markers
+* Gift for gabe / Bday coming up
+* Tape
+* Deoderant
+* Wall Hooks
+* Clock
+* Rubber Bands
+- Work out bugs with Pi-P-Boy
+- Ask about stuff to put on shopping list
+- Fix touchscreen bug (Keep mouse)
+- Make better case
+- Fix 3D-Printer Bug (Keeps not showing temp / heating up)
