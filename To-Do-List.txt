@@ -1,19 +1,15 @@
-- Test out Pi-P-Boy
-- Do shopping
-Shopping list
-* Lunch Meat
-* Toilet Paper / Paper Towels
-* Bbq / Honey Mustard
-* Doggo Food
-* Dry Erase Markers
-* Gift for gabe / Bday coming up
-* Tape
-* Deoderant
+- Make better design
+- Go outside
+- Fix brightness
+- Work on project(s)
+- Buy a Raspberry pi 4 and pico
+- Get bank card
+- Get more Stuff to scrap
+- Start making Wall Mounted Terminal
+- Fix Clock
+- Get parts
 * Wall Hooks
-* Clock
-* Rubber Bands
-- Work out bugs with Pi-P-Boy
-- Ask about stuff to put on shopping list
-- Fix touchscreen bug (Keep mouse)
-- Make better case
-- Fix 3D-Printer Bug (Keeps not showing temp / heating up)
+* Soldering Iron
+- Plan for project(s)
+
+- Sleep!
